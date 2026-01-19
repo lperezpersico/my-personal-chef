@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langgraph
+streamlit
+pillow
+python-dotenv
+tavily-python
